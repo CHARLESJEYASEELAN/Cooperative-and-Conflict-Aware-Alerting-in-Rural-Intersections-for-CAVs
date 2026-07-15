@@ -87,7 +87,6 @@ pip install -r requirements.txt
 Recommended core packages include:
 - `carla`
 - `torch`
-- `ray[rllib]`
 - `torch-geometric`
 - `gymnasium`
 - `numpy`
@@ -97,7 +96,6 @@ Recommended core packages include:
 - `scikit-learn`
 - `tqdm`
 - `pygame`
-- `transformers`
 - `pillow`
 
 ## How to Run Town03 Experiments
