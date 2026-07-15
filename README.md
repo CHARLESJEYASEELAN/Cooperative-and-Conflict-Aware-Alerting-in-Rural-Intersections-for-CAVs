@@ -143,6 +143,7 @@ model.load_state_dict(checkpoint, strict=False)
 
 If you use this code, please cite the corresponding IEEE Access paper:
 
+```
 @ARTICLE{11605090,
   author={Jeyaseelan, Charles and Balasubramanyam, K S and Suresha, R and Manohar, N and Ajay Kumar, G},
   journal={IEEE Access}, 
@@ -153,4 +154,4 @@ If you use this code, please cite the corresponding IEEE Access paper:
   pages={1-1},
   keywords={Modeling;Safety;Vehicles;Timing;Training;Reinforcement learning;Management;Broadcasting;Licenses;Learning (artificial intelligence);Connected and Autonomous Vehicles;Graph Convolution Networks;Prioritized Alert Broadcast;Rural Intersection Management},
   doi={10.1109/ACCESS.2026.3712548}}
-
+```
