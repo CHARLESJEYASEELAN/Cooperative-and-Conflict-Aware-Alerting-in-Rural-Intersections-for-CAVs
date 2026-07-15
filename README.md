@@ -15,7 +15,7 @@ The framework models vehicles as graph nodes with spatial and kinematic features
 
 ## CARLA Setup
 
-- Simulator: CARLA <insert 0.9.16>
+- Simulator: CARLA <0.9.16>
 - Maps used:
   - Town03 for training and main evaluation
   - Town07 for additional evaluation
