@@ -1,0 +1,2 @@
+# Cooperative-and-Conflict-Aware-Alerting-in-Rural-Intersections-for-CAVs
+This repository contains the code for paper on a conflict-aware intersection alerting framework for Connected and Automated Vehicles (CAVs). The proposed method combines Relational Graph Convolutional Networks (RGCNs) with Hybrid Proximal Policy Optimization (HPPO) to generate context-aware alerts at unsignalized rural intersections in CARLA.
