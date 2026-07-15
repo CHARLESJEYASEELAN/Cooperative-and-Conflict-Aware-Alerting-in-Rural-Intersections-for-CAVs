@@ -49,7 +49,7 @@ repo-root/
     utils/
 
   models/
-  graphs/
+  graphs.rar
   blockdiagram.png
 ```
 
@@ -71,7 +71,7 @@ repo-root/
   - Shared helper functions for CARLA, RL, and vehicle spawning.
 - `models/`
   - Saved `.pth` checkpoints and pretrained models.
-- `graphs/`
+- `graphs.rar`
   - Saved graph artifacts.
 - `blockdiagram.png`
   - High-level architecture overview of the proposed framework.
@@ -140,4 +140,17 @@ model.load_state_dict(checkpoint, strict=False)
 ```
 
 ## Citation
+
+If you use this code, please cite the corresponding IEEE Access paper:
+
+@ARTICLE{11605090,
+  author={Jeyaseelan, Charles and Balasubramanyam, K S and Suresha, R and Manohar, N and Ajay Kumar, G},
+  journal={IEEE Access}, 
+  title={Cooperative and Conflict-Aware Alerting using Graph-Based Reinforcement Learning in Rural Intersections for CAVs}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Modeling;Safety;Vehicles;Timing;Training;Reinforcement learning;Management;Broadcasting;Licenses;Learning (artificial intelligence);Connected and Autonomous Vehicles;Graph Convolution Networks;Prioritized Alert Broadcast;Rural Intersection Management},
+  doi={10.1109/ACCESS.2026.3712548}}
 
