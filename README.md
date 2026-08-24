@@ -143,13 +143,13 @@ If you use this code, please cite the corresponding IEEE Access paper:
 
 ```
 @ARTICLE{11605090,
-  author={Jeyaseelan, Charles and Balasubramanyam, K S and Suresha, R and Manohar, N and Ajay Kumar, G},
+  author={Jeyaseelan, Charles and Balasubramanyam, K. S. and Suresha, R. and Manohar, N. and Ajay Kumar, G.},
   journal={IEEE Access}, 
-  title={Cooperative and Conflict-Aware Alerting using Graph-Based Reinforcement Learning in Rural Intersections for CAVs}, 
+  title={Cooperative and Conflict-Aware Alerting Using Graph-Based Reinforcement Learning in Rural Intersections for CAVs}, 
   year={2026},
-  volume={},
+  volume={14},
   number={},
-  pages={1-1},
-  keywords={Modeling;Safety;Vehicles;Timing;Training;Reinforcement learning;Management;Broadcasting;Licenses;Learning (artificial intelligence);Connected and Autonomous Vehicles;Graph Convolution Networks;Prioritized Alert Broadcast;Rural Intersection Management},
+  pages={112650-112668},
+  keywords={Modeling;Safety;Vehicles;Timing;Training;Reinforcement learning;Management;Broadcasting;Licenses;Learning (artificial intelligence);Connected and autonomous vehicles;graph convolution networks;prioritized alert broadcast;rural intersection management},
   doi={10.1109/ACCESS.2026.3712548}}
 ```
